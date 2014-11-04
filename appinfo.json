@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mkouhei0910@gmail.com",
+    "longName": "Rest of Your Time",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Rest of Your Time",
+    "uuid": "0ee10586-dbd4-424a-902a-da00b962aa5d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
